@@ -3,10 +3,10 @@
 1. **Randomized Customer Selection**
    - Each game session randomly selects 2 customers from a fixed pool of 6 distinct customer types, each with unique preferences and hint dialogues.
 
-2. **Categorized Ingredient Pool & Random Draw**
+2. **Categorized Ingredient Pool & Random Draw** [x]
    - An inventory system featuring ingredients categorized into Vegetables, Meat/Fish, Side Dishes, and Extras. The player receives a randomized subset of ingredients to choose from.
 
-3. **Interactive Main Menu Loop**
+3. **Interactive Main Menu Loop** [x]
    - A persistent console menu allowing players to check their current inventory, open the cookbook, start cooking, or exit the game.
 
 4. **Interactive Cookbook System**
@@ -15,7 +15,7 @@
 5. **Multi-Step Dish Preparation Process**
    - A structured input sequence where players select ingredients, choose the cooking method, and input the cooking duration in minutes.
 
-6. **Input Validation and Error Handling**
+6. **Input Validation and Error Handling** [x]
    - Console loops that handle invalid inputs (e.g., entering letters instead of numbers or selecting non-existent options) without crashing the application.
 
 7. **Dynamic Score Calculation & Customer Feedback**
